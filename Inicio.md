@@ -1,4 +1,4 @@
-﻿<html>
+
 
 <title>Objetivos</title>
 <header><img src="logo.gif" width"90" height"40"></img></header>
@@ -82,5 +82,4 @@ inmersos en un proceso compartido de toma de decisiones a corto plazo.<a href="h
 </body>
 
 
-</html>
 
